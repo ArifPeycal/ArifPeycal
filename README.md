@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ArifPeycal</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Arif Faisal</h1>
 <h3 align="center">Undergraduate student from IIUM with passion in Cybersecurity. Always participate in CTF competitions either locally or online to enhance my skills. Make sure to check out my writeups.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifpeycal&label=Profile%20views&color=0e75b6&style=flat" alt="arifpeycal" /> </p>
